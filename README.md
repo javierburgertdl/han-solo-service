@@ -41,7 +41,7 @@ Para conocer más sobre la API vaya al siguiente [enlace](https://hansoloservice
 
 La API fue desarrollada en .Net Core 3.1.
 
-Para poder compilar y ejecutar la aplicación se necesita disponer del runtime. [https://dotnet.microsoft.com/download/dotnet/3.1]
+Para poder compilar y ejecutar la aplicación se necesita disponer de .Net Core SDK. [https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.414-windows-x64-installer]
 
 Luego ejecutar 
 
